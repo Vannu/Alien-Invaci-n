@@ -1,0 +1,382 @@
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s0.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s1.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s2.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s3.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s4.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s5.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s6.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1.wma
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1song.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Ending.wma
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Ending.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\explosion.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\explosion_aircraft.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\game.wma
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\game.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\GameOver.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\impact.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\MainTheme.wma
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\MainTheme.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Opening.wma
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Opening.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\player_shoot.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\shoot.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\boss.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\enemy.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\enemy_shoot.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\explosion_aircraft.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\menu.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\player.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\player_shoot.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\select.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\smoke.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\menu.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\ranking.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\score.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Monogame_Soria.exe
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Monogame_Soria.pdb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csproj.CoreCompileInputs.cache
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csproj.CopyComplete
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\obj\x86\Debug\Monogame_Soria.exe
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\obj\x86\Debug\Monogame_Soria.pdb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\boos1start.xnb
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csprojResolveAssemblyReference.cache
+C:\Users\Vanesa\source\repos\Monogame_Soria\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\9695.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csproj.CoreCompileInputs.cache
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s0.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s1.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s2.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s3.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s4.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s5.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s6.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\boss.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\enemy.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\enemy_shoot.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\explosion_aircraft.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\menu.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\player.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\player_shoot.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\select.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\smoke.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\9695.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\boos1start.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1.wma
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1song.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Ending.wma
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Ending.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\explosion.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\explosion_aircraft.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\game.wma
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\game.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\GameOver.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\impact.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\MainTheme.wma
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\MainTheme.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Opening.wma
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Opening.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\player_shoot.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\shoot.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\menu.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\ranking.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\score.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Monogame_Soria.exe
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Monogame_Soria.pdb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csproj.CopyComplete
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.exe
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.pdb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csprojAssemblyReference.cache
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s0.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s1.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s2.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s3.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s4.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s5.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s6.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\boss.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\enemy.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\enemy_shoot.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\explosion_aircraft.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\menu.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\Piedras.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\player.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\player_shoot.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\select.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\smoke.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\9695.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\boos1start.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1.wma
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1song.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Ending.wma
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Ending.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\explosion.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\explosion_aircraft.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\game.wma
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\game.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\GameOver.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\impact.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\MainTheme.wma
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\MainTheme.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Opening.wma
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Opening.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\player_shoot.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\shoot.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\menu.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\ranking.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\score.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Monogame_Soria.exe
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\Monogame_Soria.pdb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csproj.CoreCompileInputs.cache
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csproj.CopyComplete
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\obj\x86\Debug\Monogame_Soria.exe
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\obj\x86\Debug\Monogame_Soria.pdb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\VS_2\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csprojAssemblyReference.cache
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s0.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s1.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s2.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s3.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s4.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s5.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s6.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\boss.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\enemy.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\enemy_shoot.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\explosion_aircraft.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\menu.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\Piedras.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\player.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\player_shoot.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\select.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\smoke.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\9695.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\boos1start.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1.wma
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1song.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Ending.wma
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Ending.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\explosion.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\explosion_aircraft.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\game.wma
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\game.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\GameOver.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\impact.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\MainTheme.wma
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\MainTheme.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Opening.wma
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Opening.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\player_shoot.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\shoot.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\menu.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\ranking.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\score.xnb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Monogame_Soria.exe
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Monogame_Soria.pdb
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.dll
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.xml
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csprojAssemblyReference.cache
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csproj.CoreCompileInputs.cache
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csproj.CopyComplete
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.exe
+G:\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.pdb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s0.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s1.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s2.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s3.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s4.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s5.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s6.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\menu.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\ranking.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\score.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\boss.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\enemy.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\enemy_shoot.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\explosion_aircraft.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\menu.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\Piedras.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\player.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\player_shoot.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\select.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\smoke.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\9695.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\boos1start.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1.wma
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1song.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Ending.wma
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Ending.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\explosion.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\explosion_aircraft.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\game.wma
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\game.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\GameOver.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\impact.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\MainTheme.wma
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\MainTheme.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Opening.wma
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Opening.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\player_shoot.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\shoot.xnb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Monogame_Soria.exe
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Monogame_Soria.pdb
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csprojAssemblyReference.cache
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csproj.CoreCompileInputs.cache
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csproj.CopyComplete
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.exe
+C:\Users\Vanesa\Desktop\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.pdb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s0.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s1.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s2.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s3.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s4.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s5.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\level\lev01s6.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\9695.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\boos1start.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1.wma
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Boss1song.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Ending.wma
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Ending.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\explosion.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\explosion_aircraft.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\game.wma
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\game.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\GameOver.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\impact.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\MainTheme.wma
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\MainTheme.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Opening.wma
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\Opening.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\player_shoot.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sounds\shoot.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\boss.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\enemy.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\enemy_shoot.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\explosion_aircraft.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\menu.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\Piedras.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\player.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\player_shoot.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\select.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\sprites\smoke.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\menu.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\ranking.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Content\fonts\score.xnb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Monogame_Soria.exe
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\Monogame_Soria.pdb
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csprojAssemblyReference.cache
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csproj.CoreCompileInputs.cache
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.csproj.CopyComplete
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.exe
+C:\Users\Vanesa\Desktop\ifts\FINAL PROGRAMACION APLICADA\Soria_Vanesa\Monogame_Soria\obj\x86\Debug\Monogame_Soria.pdb

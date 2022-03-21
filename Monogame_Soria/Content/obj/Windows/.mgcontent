@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/fonts/menu.spritefont</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/fonts/ranking.spritefont</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/fonts/score.spritefont</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sounds/Ending.mp3</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sounds/explosion.wav</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sounds/explosion_aircraft.wav</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sounds/game.mp3</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sounds/GameOver.wav</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sounds/impact.wav</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sounds/MainTheme.mp3</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sounds/Opening.mp3</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sounds/player_shoot.wav</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sounds/shoot.wav</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/level/lev01s0.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/level/lev01s1.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/level/lev01s2.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/level/lev01s3.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/level/lev01s4.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/level/lev01s5.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/level/lev01s6.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/boss.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/enemy.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/enemy_shoot.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/explosion_aircraft.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/menu.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/player.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/player_shoot.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/select.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/smoke.png</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sounds/Boss1.mp3</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sounds/Boss1song.wav</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sounds/boos1start.wav</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sounds/9695.wav</File>
+    <File>C:/Users/Vanesa/Desktop/ifts/FINAL PROGRAMACION APLICADA/Soria_Vanesa/Monogame_Soria/Content/sprites/Piedras.png</File>
+  </SourceFiles>
+</SourceFileCollection>
